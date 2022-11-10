@@ -6,7 +6,7 @@
   // make sure the code you submit WORKS - you can run this entire file 
     // using `node cleanUp.js` or copy and paste into a replit
 
-//added semicolons?
+//added semicolons? final tweak
 // EX 1:
 function nameQuestion() {
   console.log("Hello, what is your name?");
