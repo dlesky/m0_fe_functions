@@ -25,9 +25,13 @@ companyPost("Twitter", 0, 5)
 // 4: Write a function that satifies the following interaction pattern:
 function checkStock(num, food) {
     var qty
-    if (num===0) {qty = "- OUT of stock!"}
-    else if (num <= 3) {qty = "- running LOW"}
-    else {qty = "is stocked"}
+    if (num===0) {
+        qty = "- OUT of stock!"
+    } else if (num <= 3) {
+        qty = "- running LOW"
+    } else {
+        qty = "is stocked"
+    }
     console.log(`${food} ${qty}`)
 
 }
