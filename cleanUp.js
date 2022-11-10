@@ -6,18 +6,19 @@
   // make sure the code you submit WORKS - you can run this entire file 
     // using `node cleanUp.js` or copy and paste into a replit
 
-
+//added semicolons?
 // EX 1:
 function nameQuestion() {
-  console.log("Hello, what is your name?")
+  console.log("Hello, what is your name?");
 }
 
-nameQuestion()
+nameQuestion();
 
 //fixed formatting, indent interior of code block, align last curly brace with function statement
+//added semicolon
 // EX 2:
 function addThreeNums(first, second, third) {
-  var sum = first + second + third
+  var sum = first + second + third;
   console.log(sum);
 }
 
@@ -45,7 +46,7 @@ makeFreshPesto();
 function average(num1, num2) {
   var sum = num1 + num2;
   var avg = sum / 2;
-  console.log(`the average is: ${avg}.`)
+  console.log(`the average is: ${avg}.`);
 }
 
 average(5,15)
