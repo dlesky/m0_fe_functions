@@ -7,6 +7,6 @@ A function is like a little factory that takes things and produces/does things.
 - Share your understanding of arguments and parameters.
 Arugments are values that are passed to a function during invocation. These arguments are then matched and assigned to the parameters, based on their order and quantity. Parameters then serve as variables in the local scope of the function. 
 - What questions/topics (related to Functions) do you want to bring to your Small Group?
-I don't have specific questions about function declarations. One fun fact about functions in JS. 
-1) They are first-class citizens, i.e. can be passed as values which enables functional programming. 
+Nothing at the moment :)
+
 
